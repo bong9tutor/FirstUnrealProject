@@ -72,3 +72,33 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Backup files
+*.backup
+*.bak
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# 백업 스크립트 관련 파일 (민감한 정보 포함)
+credentials.json
+token.pickle
+*.zip
+
+# 로그 파일
+*.log
